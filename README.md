@@ -2,8 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/EJWilcoxProjects/EJWilcoxProjects.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-[![Hi](https://i.ytimg.com/vi/u7JsKhI2An0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBB3mQwB-tPy7rFDxmFhmmocmqC6g)]
-(https://www.youtube.com/watch?v=u7JsKhI2An0)
+[![Hi](https://i.ytimg.com/vi/u7JsKhI2An0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBB3mQwB-tPy7rFDxmFhmmocmqC6g)](https://www.youtube.com/watch?v=u7JsKhI2An0)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
