@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[![Hi](https://i.ytimg.com/vi/u7JsKhI2An0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBB3mQwB-tPy7rFDxmFhmmocmqC6g)]
+(https://www.youtube.com/watch?v=u7JsKhI2An0)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
