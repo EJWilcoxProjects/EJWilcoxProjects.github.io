@@ -49,7 +49,13 @@ A few substitutions were made for components, this led testing to become unsure,
 -123-5006-GR	9v battery snap
 
 
-Above is a list of the original components.
+Above is a list of the original components, a few of these were substituted.
+
+The twp polyester capacitors were replaced with one aluminion electrolytic and one ceramic of same values. This is possibly the most to blame for the final design not functioning, but that requires further tests and the appropriate components to begin with.
+In Scott's description, he clarifies that the 20pF ceramic capacitor is replaced with a 1pF capacitor. For this project, I ended up using a 22pF ceramic which should still work.
+The stereo jack connections used by Scott are replaced with MJ-63022A Mono Female connectors.
+
+
 
 
 
