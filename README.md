@@ -7,7 +7,7 @@ Here, you will find a collection of projects, focusing on piezo buffer reiterati
 
 [![Hi](https://i.ytimg.com/vi/v0ewoMDygK0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZM9zWO2y52xs935yxMredCbvl3g)](https://www.youtube.com/watch?v=v0ewoMDygK0)
 
-<p align="centre">
+<p align="center">
 Project List
 
 1. [Piezo Buffer Board](http://EJWilcoxProjects.github.io/PBB.html)
