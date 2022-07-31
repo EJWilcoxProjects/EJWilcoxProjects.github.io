@@ -11,5 +11,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. Piezo Buffer Board
 2. Step-by-step PCB CAM to Wegstr Print Tutorial
 3. Exciter attachment comparisons: Exciter adhesive and superglue/masking tape method
-4. [!DRS][Doublestop Rocker designs](http://EJWilcoxProjects.github.io/DSR.html)
+4. [Doublestop Rocker designs](http://EJWilcoxProjects.github.io/DSR.html)
 5. 
