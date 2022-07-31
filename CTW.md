@@ -1,6 +1,6 @@
 ### [BACK TO HOMEPAGE](https://ejwilcoxprojects.github.io)
 
-## Step-by-step guide EAGLE to Wegstr PCB CAM
+<h1 align="center">From EAGLE to Wegstr</h1>
 
 
 
