@@ -1,6 +1,4 @@
-<p align="center">
-![Symbol](https://yt3.ggpht.com/cEpMzdCyUsdU4Mg-VSrj5XoZV765MkwnZwgEy9WOiQ7tWQ-IH_DcxrJOz1tY39GJ68unsDziMQ=s176-c-k-c0x00ffffff-no-rj)
-</p>
+<p align="center">![Symbol](https://yt3.ggpht.com/cEpMzdCyUsdU4Mg-VSrj5XoZV765MkwnZwgEy9WOiQ7tWQ-IH_DcxrJOz1tY39GJ68unsDziMQ=s176-c-k-c0x00ffffff-no-rj)</p>
 
 # Welcome to my projects collection.
 
