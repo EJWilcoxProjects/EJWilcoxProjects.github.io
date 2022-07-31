@@ -3,9 +3,9 @@
 
 
 
-<br>
 
-<h1 align="center">Piezo Buffer Project</h2>
+
+<h1 align="center">Piezo Buffer Project</h1>
 
 
 
