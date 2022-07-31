@@ -6,22 +6,13 @@ Here, you will find a collection of projects, focusing on piezo buffer reiterati
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### List of Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Piezo Buffer Board
+2. Step-by-step PCB CAM to Wegstr Print Tutorial
+3. Exciter attachment comparisons: Exciter adhesive and superglue/masking tape method
+4. Doublestop Rocker designs
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
