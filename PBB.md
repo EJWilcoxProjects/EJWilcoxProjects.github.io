@@ -1,9 +1,10 @@
 ### [BACK TO HOMEPAGE](https://ejwilcoxprojects.github.io)
 
+<br>
 
 <h1 align="center">Piezo Buffer Project</h1>
 
-<h1 align="center">___________________________________________________</h1
+
 
 
 The piezo buffer board is inspired heavily by [Scott Helmke's](http://scotthelmke.com/Mint-box-buffer.html) mint-box piezo buffer.
