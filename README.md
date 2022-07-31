@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### List of Projects
 
 1. [Piezo Buffer Board](http://EJWilcoxProjects.github.io/PBB.html)
-2. Step-by-step PCB CAM To Wegstr Print Tutorial
+2. [Step-by-step PCB CAM To Wegstr Print Tutorial](http://EJWilcoxProjects.github.io/CTW.html)
 3. [Exciter Attachment Comparison](http://EJWilcoxProjects.github.io/EEA.html)
 4. [Doublestop Rocker Designs](http://EJWilcoxProjects.github.io/DSR.html)
 5. 
