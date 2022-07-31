@@ -1,4 +1,4 @@
-(http://EJWilcoxProjects.github.io/PBB.html)
+http://EJWilcoxProjects.github.io/PBB.html
 
 ##Piezo Buffer Board
 
