@@ -1,4 +1,4 @@
-## Welcome to my projects collection
+## Welcome to my projects collection.
 
 Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, double stop rocker designs, and more.
 
