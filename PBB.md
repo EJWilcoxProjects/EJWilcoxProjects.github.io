@@ -9,7 +9,7 @@ It is important to premise that although there were personal expenses put into t
 
 Additionally, further to be discussed is component substitution and a continuation of the CAM and CAD process in the CAM step-by-step guide.
 
-![Scott's diagram](http://scotthelmke.com/Mint-box-buffer-schematic.jpg)
+![Scott's diagram](https://i.ibb.co/zFz0LWb/Mint-box-buffer-schematic.jpg)
 
 Seen above, Scott's schematic is centered around a JFET 2N5457; a transistor used for tone modulation, amplification and more. In a simplified way to understand this circuit, the audio signal travelling through has a gain switch for two different options. The 2N5457 is used to retain bass and maintain a better level of fidelity than without any pre-amp or buffer.
 
