@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="200" src="https://i.ibb.co/C24Vtxp/EJW-2.png" alt="EJW Logo">
+  <img width="200" src="https://i.ibb.co/w4vJYYS/EJW-3.png" alt="EJW Logo">
 </p>
 
 
