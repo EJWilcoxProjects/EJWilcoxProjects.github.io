@@ -26,8 +26,7 @@ Misunderstanding the diagram early on in the process, I had created an initial l
 
 A few substitutions were made for components, this led testing to become unsure, whether the components or connections were incorrect, it led to continuing on with a redesign of the PCB, using the (in theory) useable substitutions to replace the components used in Scott's version. 
 
-<h0 align="center">
-512-2N5457	2N5457
+<h1 align="center">512-2N5457	2N5457</h1>
 140-PF1H303K	0.033uF polyester
 140-PF1H104K	0.1uF polyester
 74-199D10V4.7A	4.7uF tantalum
@@ -38,7 +37,7 @@ A few substitutions were made for components, this led testing to become unsure,
 291-10K	10K resistor
 502-112B	Stereo jack
 123-5006-GR	9v battery snap
-</h0>
+
 
 Above is a list of the original components.
 
