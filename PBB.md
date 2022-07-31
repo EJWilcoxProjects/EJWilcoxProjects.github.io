@@ -5,7 +5,7 @@
 
 <br>
 
-<h1 align="center">Piezo Buffer Project</h1>
+<h1 align="center">Piezo Buffer Project</h2>
 
 
 
