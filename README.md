@@ -2,6 +2,8 @@
 
 # Welcome to my projects collection.
 
+![Symbol](https://yt3.ggpht.com/cEpMzdCyUsdU4Mg-VSrj5XoZV765MkwnZwgEy9WOiQ7tWQ-IH_DcxrJOz1tY39GJ68unsDziMQ=s176-c-k-c0x00ffffff-no-rj)
+
 Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, double stop rocker designs, and more.
 
 [![Hi](https://i.ytimg.com/vi/v0ewoMDygK0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZM9zWO2y52xs935yxMredCbvl3g)](https://www.youtube.com/watch?v=v0ewoMDygK0)
