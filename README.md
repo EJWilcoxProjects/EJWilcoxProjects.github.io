@@ -1,5 +1,5 @@
 
-# Welcome to my projects collection.
+# WELCOME
 
 <p align="center">
   <img width="200" src="https://avatars.githubusercontent.com/u/109814144?v=4" alt="EJW Logo">
