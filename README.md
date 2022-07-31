@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my projects collection
 
-You can use the [editor on GitHub](https://github.com/EJWilcoxProjects/EJWilcoxProjects.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, double stop rocker designs, and more.
 
 [![Hi](https://i.ytimg.com/vi/u7JsKhI2An0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBB3mQwB-tPy7rFDxmFhmmocmqC6g)](https://www.youtube.com/watch?v=u7JsKhI2An0)
 
