@@ -1,6 +1,9 @@
 
 # Welcome to my projects collection.
 
+<p align="center">
+  <img width="200" src="https://avatars.githubusercontent.com/u/109814144?v=4" alt="EJW Logo">
+</p>
 
 
 Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, double stop rocker designs, and more.
