@@ -10,6 +10,10 @@ Additionally, further to be discussed is component substitution and a continuati
 
 Seen above, Scott's schematic is centered around a JFET 2N5457; a transistor used for tone modulation, amplification and more. In a simplified way to understand this circuit, the audio signal travelling through has a gain switch for two different options. The 2N5457 is used to retain bass and maintain a better level of fidelity than without any pre-amp or buffer.
 
+Misunderstanding the diagram early on in the process, I had created an initial large prototype with a 3D casing.
+
+![Piezo Buffer Early](https://i.ibb.co/Mn0X93Z/piezob-buffer-holder-2-2022-Jul-31-10-32-46-AM-000-Customized-View4599899894-png-alpha.png)
+
 
 
 
