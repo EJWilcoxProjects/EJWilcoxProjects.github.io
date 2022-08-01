@@ -29,3 +29,21 @@ This tutorial will provide a step-by-step guide on the CAD to CAM process, in th
 ![drill view](https://i.ibb.co/3hg929D/Drill-View.png)
 
 ![view project](https://i.ibb.co/FhJ4L9g/View-Project.png)
+
+![view gerber](https://i.ibb.co/kgLsdR5/Gerber-Object-Selected.png)
+
+![isolation geometry](https://i.ibb.co/RC8y0v6/Isolation-Tool-View.png)
+
+![isolation to cnc](https://i.ibb.co/C7hHVBM/Generate-CNC-Job-Object-Isolation-Geometry.png)
+
+![cnc look](https://i.ibb.co/YWYDBdc/CNC-View.png)
+
+![exc 1](https://i.ibb.co/gZ3yzwt/Excellon-object-1.png)
+
+![exc 2](https://i.ibb.co/wR3YTWL/Excellon-object-2.png)
+
+![drill path](https://i.ibb.co/h7H2Yyz/image-2022-08-01-110041317.png)
+
+![
+
+
