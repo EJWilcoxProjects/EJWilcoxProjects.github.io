@@ -9,6 +9,8 @@ This project is inspired by [Jeremy Bell's Doublestop Rocker](https://www.youtub
 
 The way in which my Doublestop rocker functions is similar to Jeremy's in the use of Teensy as the midi controller. Each side of the Doublstop rocker has a conductive pad connecting to two of the digital pins on the Teensy board. In Jeremy's case, it looks like his top rocking piece is one conductive surface connected to ground, and the base is connected to two different pins.
 
+# Early Doublstop Designs
+
 ![rocker first](https://i.ibb.co/CzrPGDZ/Double-Stop-Rocker-Top-Variation-3-2022-Jul-31-10-47-06-AM-000-Customized-View6365680705-png-alpha.png)
 
 Above is my first design of the top rocking pad with all established indents for magnets and coins (which will be discussed further in the page).
@@ -22,19 +24,31 @@ These designs use both elastic bands and coin neodymium magnets as a way to keep
 
 Above you can see a variation of the rocker top design, still with lots of magnet slots, and this one requires it as it isn't held in with elastic bands, instead the magnets keep the rocker repelling at each side. Simply requires using superglue to glue the magnets in with polarities causing base and top to repel against eachother.
 
+# 4 Way Rocker Early Designs
 
+On the chance that this device would be used off a guitar and rather sit at a desk, the idea of having more than two sides that could be flicked was quite interesting. 
 
-![rocker combined](https://i.ibb.co/syrTJrt/Rocker-base-design-dupe-bar-2022-Jul-31-10-31-40-AM-000-Customized-View23189622749-png-alpha.png)
-
-![round top rocker](https://i.ibb.co/ncLxp2j/Double-Stop-Rocker-Top-Variation-3-bar-covered-2022-Jul-31-10-57-41-AM-000-Customized-View2094383060.png)
+I developed a joiner, which would sit in the open 'U' shaped base, and allow pivoting in the perpendicular direction.
 
 ![4 rocker joiner](https://i.ibb.co/SxdJfRG/Double-Stop-Rocker-joiner-2022-Jul-31-10-33-18-AM-000-Customized-View6896141530-png-alpha.png)
+
+On top of this would sit a variation 4 way rocker, without any magnets as this version would rely solely on the elastics, keeping cost lower.
 
 ![4 rocker](https://i.ibb.co/w0r3HPX/Rocker-base-design-dupe-2-2022-Jul-31-10-36-46-AM-000-Customized-View1814049647-png-alpha.png)
 
 ![4 rocker 2](https://i.ibb.co/zsv0frX/Rocker-base-design-dupe-2-2022-Jul-31-10-38-13-AM-000-Customized-View3284865224-png-alpha.png)
 
-![4 rocker top round](https://i.ibb.co/M14vwcb/Double-Stop-Rocker-Top-Variation-3-rounded-2022-Jul-31-10-52-46-AM-000-Customized-View14397495276-pn.png)
+As seen above, the joiner doesn't add too much height on to the design to make it not function, and let the design move in 4 (and arguably 8 directions, providing the possibility of diagonal movement).
+
+The concept of having AND logic in this rocker design will be something I will be experimenting with post-project.
+
+![rocker combined](https://i.ibb.co/syrTJrt/Rocker-base-design-dupe-bar-2022-Jul-31-10-31-40-AM-000-Customized-View23189622749-png-alpha.png)
+
+![round top rocker](https://i.ibb.co/ncLxp2j/Double-Stop-Rocker-Top-Variation-3-bar-covered-2022-Jul-31-10-57-41-AM-000-Customized-View2094383060.png)
+
+
+
+
 
 ![max original](https://i.ibb.co/Xj3N65F/image-2022-08-01-132905863.png)
 
