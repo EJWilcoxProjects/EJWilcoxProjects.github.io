@@ -91,8 +91,11 @@ This 4 Way Rocker design below has removeable polymorph covers to allow more erg
 
 # Build Instructions and List of Parts
 
-In the link below contains the necessary .stl, .ino
+In the link below contains the necessary .stl, .ino and max files necessary to build these projects.
+
 [Click Here](https://drive.google.com/drive/folders/1H8cQ9-BR39GN7Wlx6rk8J9TUlsvbFm7x?usp=sharing)
+
+Additionally, A material list (with links) and total cost is present in each folder so that you immediately start the project today.
 
 
 
