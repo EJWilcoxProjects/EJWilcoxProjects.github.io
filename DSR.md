@@ -109,6 +109,11 @@ Click on the thumbnails tomorrow to see a variety of demonstrations with the Dou
 [![4](https://i9.ytimg.com/vi_webp/I09AXpobvtk/mqdefault.webp?sqp=CMikoJcG&rs=AOn4CLD9A9WSP-e-L827lpF0NHGtNS_T_A)](https://www.youtube.com/watch?v=I09AXpobvtk)
 
 
+One thing that can be noticed in the clips is clicking when the audio cuts out and back in. I suspect this is a gain issue and noticed after recording. This will also be tested further in the future.
+
+
+
+Thank you for following this project!
 
 
 
