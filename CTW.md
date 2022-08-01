@@ -12,7 +12,7 @@ NECESSARY SOFTWARE TO FOLLOW THIS TUTORIAL:
 
 -EAGLE
 -FLATCAM
-- (Optional) GERBER VIEWER
+-GERBER VIEWER (Optional)
 -WEGSTR
 
 # 1. EAGLE
@@ -101,22 +101,22 @@ This is the point where parameters can be changed to suit your board manufacture
 
 **KEEP IN MIND THAT THE PARAMETERS VISIBLE IN THE SCREENSHOTS SHOULD NOT NECESSARILY BE REPLICATED**
 
-Cut Z: -0.0750
+-Cut Z: -0.0750
 
-Passes: 2
+-Passes: 2
 
-Overlap 25.0000 %
+-Overlap 25.0000 %
 
-**FOR MORE THAN 1 PASS, MAKE SURE TO CLICK COMBINE**
+FOR MORE THAN 1 PASS, MAKE SURE TO CLICK **COMBINE**
 
 ![isolation to cnc](https://i.ibb.co/C7hHVBM/Generate-CNC-Job-Object-Isolation-Geometry.png)
 
 Unlike in the screenshot, for the Wegstr machine that I have worked on, I prefer to change the following:
 
-Cut Z: to -0.0750
-Travel Z: 1.0000
-Feedrate X-Y: 80.0000
-Spindle Speed: 10000
+-Cut Z: to -0.0750
+-Travel Z: 1.0000
+-Feedrate X-Y: 80.0000
+-Spindle Speed: 10000
 
 Next click GENERATE CNCJOB OBJECT at the bottom of the panel.
 
@@ -138,27 +138,74 @@ Depending on the thickness of your board and milling machine capabilities, once 
 
 Here are a few changes I make:
 
-Cut Z: -2.5
-Travel Z: 1.0000
-Feedrate Z: 80.0000
-Spindle Speed: 10000
+-Cut Z: -2.5
+-Travel Z: 1.0000
+-Feedrate Z: 80.0000
+-Spindle Speed: 10000
 
 ![exc 2](https://i.ibb.co/wR3YTWL/Excellon-object-2.png)
 
+If you wish to change your drill diameter in the drilling process, make sure to tick TOOL CHANGE Z. (15.0000 may not provide enough height to change heads, so 25.0000 may be more appropriate).
 
+Finally, click GENERATE CNCJOB OBJECT
 
 ![drill path](https://i.ibb.co/h7H2Yyz/image-2022-08-01-110041317.png)
 
+Thicker yellow lines will show on the preview to confirm that the step was complete accordingly. 
+
+A new CNC FILE should appear in PROJECTS.
+
+# 5. CUTOUT file parameters
+
+The last and optional step is to create a last step to tell the machine to cut out the perimeter of the board.
+
+Click on the .gbr FILE from the beginning in projects, and once highlighted, go to TOOL and CUTOUT PCB
+
 ![cutout choose](https://i.ibb.co/hfthMfd/image-2022-08-01-110249398.png)
+
+If cutting out your PCB entirely, here are a few changes that could be useful to change.
+
+-Cut Z: -2.5
+-TICK MULTI-DEPTH and set to 0.5000
+-Travel Z: 1.0000
+Feedrate X-Y: 80.0000
+Spindle speed: 10000
+
 
 ![cutout tool](https://i.ibb.co/MSJGDD8/cutout-generate-cnc.png)
 
+Once all parameters have been changed, for the final time click GENERATE CNCJOB OBJECT.
+
 ![view complete](https://i.ibb.co/pX4b0kV/Board-complete.png)
+
+A thick perimeter will appear around the preview showing the CUTOUT path.
 
 ![3 cnc](https://i.ibb.co/NSrT4xg/cnc-list.png)
 
+As seen on the left list in PROJECTS, the 3 CNC files will be listed in CNC JOB. 
+
+Right click on each cnc file and save them.
+
+You can now close FlatCAM and open Wegstr.
+
+# 6. Wegstr
+
+Make sure a copper pcb is clamped and centered on the milling machine.
+
+Measure and provide enough space for the milling machine to cut out the designed circuit.
+
+A tip to calibrate the drillbit close to the board is to bring down the head until it touches a piece of paper between the copper and the drillbit. Slowly remove the paper and make the co-ordinates 0.
+
+Once the head is at zero and the machine is ready to cut, open up your files. Start with the order in which we created the cnc files.
+
 ![open wegstr](https://i.ibb.co/MDdSBVr/List-in-wegstr.png)
 
+When you open the first cnc file, you will see the design and path appear again. Make sure that everything in the path is correct and you can start your manufacturing.
+
 ![wegstr path](https://i.ibb.co/svS7rZb/wegstr-top.png)
+
+Repeat for the drilling and cutout, making sure to return to 0 after each step is complete.
+
+**Congratulations* Your board is complete.
 
 
