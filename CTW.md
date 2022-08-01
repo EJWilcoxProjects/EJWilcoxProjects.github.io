@@ -81,7 +81,7 @@ After some troubleshooting, the holes should align with the board.
 
 At this point you can FLIP your board so that the copper side of the board is a mirror to the side you will be putting the components onto. You can find the option to FLIP in the OPTIONS tab.
 
-# 3. Modifying file parameters
+# 3. Modifying .gbr file parameters
 
 ![view project](https://i.ibb.co/FhJ4L9g/View-Project.png)
 
@@ -101,6 +101,14 @@ This is the point where parameters can be changed to suit your board manufacture
 
 **KEEP IN MIND THAT THE PARAMETERS VISIBLE IN THE SCREENSHOTS SHOULD NOT NECESSARILY BE REPLICATED**
 
+Cut Z: -0.0750
+
+Passes: 2
+
+Overlap 25.0000 %
+
+**FOR MORE THAN 1 PASS, MAKE SURE TO CLICK COMBINE**
+
 ![isolation to cnc](https://i.ibb.co/C7hHVBM/Generate-CNC-Job-Object-Isolation-Geometry.png)
 
 Unlike in the screenshot, for the Wegstr machine that I have worked on, I prefer to change the following:
@@ -116,11 +124,28 @@ Next click GENERATE CNCJOB OBJECT at the bottom of the panel.
 
 The tracks will be highlights with information at places where the milling machine will travel to. Faintly, the path can be seen in yellow.
 
+Additionally, on the left, in CNC JOB, a new CNC FILE should be visible.
 
+# 4. Modifying .xln file parameters
+
+Simply, like the last .gbr FILE. Move back to project and click on the .xln FILE and move over to the SELECTED TAB.
 
 ![exc 1](https://i.ibb.co/gZ3yzwt/Excellon-object-1.png)
 
+A TOOLS TABLE should show the variety of drill diameters for the board. This is taken from the component information from EAGLE, so if all the components chosen are accurate, nothing will need changed.
+
+Depending on the thickness of your board and milling machine capabilities, once again a few parameters may need modified accordingly. Experiment and find what works best for your machine.
+
+Here are a few changes I make:
+
+Cut Z: -2.5
+Travel Z: 1.0000
+Feedrate Z: 80.0000
+Spindle Speed: 10000
+
 ![exc 2](https://i.ibb.co/wR3YTWL/Excellon-object-2.png)
+
+
 
 ![drill path](https://i.ibb.co/h7H2Yyz/image-2022-08-01-110041317.png)
 
