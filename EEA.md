@@ -22,6 +22,10 @@ ALL AUDIO FILES CAN BE FOUND AT THE LINK AT THE BOTTOM OF THE PAGE
 
 This short test shows that hot glue significantly makes the sound muddier than the other attachment methods. The perforated board seems better at staying true to the original adhesive method of surface excitation.
 
+# FROM LEFT TO RIGHT 
+# ADHESIVE, HOT GLUE, MASKING TAPE
+![AHM](https://i.ibb.co/cFB30wK/image-2022-08-01-223013524.png)
+
 Furthermore, this method protects the exciter, unlike the hot glue which can potentially damage the component.
 
 
