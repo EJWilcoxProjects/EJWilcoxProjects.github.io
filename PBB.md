@@ -51,7 +51,7 @@ A few substitutions were made for components, this led testing to become unsure,
 
 Above is a list of the original components, a few of these were substituted.
 
-The twp polyester capacitors were replaced with one aluminium electrolytic and one ceramic of same values. This is possibly the most to blame for the final design not functioning, but that requires further tests and the appropriate components to begin with.
+The two polyester capacitors were replaced with one aluminium electrolytic and one ceramic of same values. This is possibly the most to blame for the final design not functioning, but that requires further tests and the appropriate components to begin with.
 
 In Scott's description, he clarifies that the 20pF ceramic capacitor is replaced with a 1pF capacitor. For this project, I ended up using a 22pF ceramic which should still work.
 
@@ -76,7 +76,7 @@ At this point, the board could be constructed and encased.
 
 Above is the final design, however unfortunately the board does not function, and without the appropriate components, it's difficult to know what variable prevents this design from not working. In any event, if you decide to take on this project yourself, please get in touch with feedback about the design and what changes you made.
 
-
+Please follow the [Eagle to Wegstr tutorial](http://EJWilcoxProjects.github.io/CTW.html) to see the step-by-step process to see more information on how the board was made.
 
 
 
