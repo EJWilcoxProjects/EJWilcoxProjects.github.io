@@ -76,9 +76,12 @@ Secondly, I managed to fix the error reading the .xln file by opening it first i
 
 After some troubleshooting, the holes should align with the board.
 
+
 ![drill view](https://i.ibb.co/3hg929D/Drill-View.png)
 
 At this point you can FLIP your board so that the copper side of the board is a mirror to the side you will be putting the components onto. You can find the option to FLIP in the OPTIONS tab.
+
+# 3. Modifying file parameters
 
 ![view project](https://i.ibb.co/FhJ4L9g/View-Project.png)
 
@@ -92,7 +95,7 @@ Once a panel with GERBER OBJECT at the top is visible, click on ISOLATION ROUTIN
 
 ![isolation geometry](https://i.ibb.co/RC8y0v6/Isolation-Tool-View.png)
 
-The TOOl PANEL will change to say ISOLATION TOOL. 
+The TOOL PANEL will change to say ISOLATION TOOL. 
 
 This is the point where parameters can be changed to suit your board manufacture and milling machine specifics.
 
@@ -100,7 +103,20 @@ This is the point where parameters can be changed to suit your board manufacture
 
 ![isolation to cnc](https://i.ibb.co/C7hHVBM/Generate-CNC-Job-Object-Isolation-Geometry.png)
 
+Unlike in the screenshot, for the Wegstr machine that I have worked on, I prefer to change the following:
+
+Cut Z: to -0.0750
+Travel Z: 1.0000
+Feedrate X-Y: 80.0000
+Spindle Speed: 10000
+
+Next click GENERATE CNCJOB OBJECT at the bottom of the panel.
+
 ![cnc look](https://i.ibb.co/YWYDBdc/CNC-View.png)
+
+The tracks will be highlights with information at places where the milling machine will travel to. Faintly, the path can be seen in yellow.
+
+
 
 ![exc 1](https://i.ibb.co/gZ3yzwt/Excellon-object-1.png)
 
