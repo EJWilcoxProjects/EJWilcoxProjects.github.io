@@ -121,8 +121,11 @@ FOR MORE THAN 1 PASS, MAKE SURE TO CLICK **COMBINE**
 Unlike in the screenshot, for the Wegstr machine that I have worked on, I prefer to change the following:
 
 -Cut Z: to -0.0750
+
 -Travel Z: 1.0000
+
 -Feedrate X-Y: 80.0000
+
 -Spindle Speed: 10000
 
 Next click GENERATE CNCJOB OBJECT at the bottom of the panel.
@@ -146,8 +149,11 @@ Depending on the thickness of your board and milling machine capabilities, once 
 Here are a few changes I make:
 
 -Cut Z: -2.5
+
 -Travel Z: 1.0000
+
 -Feedrate Z: 80.0000
+
 -Spindle Speed: 10000
 
 ![exc 2](https://i.ibb.co/wR3YTWL/Excellon-object-2.png)
@@ -173,10 +179,14 @@ Click on the .gbr FILE from the beginning in projects, and once highlighted, go 
 If cutting out your PCB entirely, here are a few changes that could be useful to change.
 
 -Cut Z: -2.5
+
 -TICK MULTI-DEPTH and set to 0.5000
+
 -Travel Z: 1.0000
-Feedrate X-Y: 80.0000
-Spindle speed: 10000
+
+-Feedrate X-Y: 80.0000
+
+-Spindle speed: 10000
 
 
 ![cutout tool](https://i.ibb.co/MSJGDD8/cutout-generate-cnc.png)
@@ -213,6 +223,8 @@ When you open the first cnc file, you will see the design and path appear again.
 
 Repeat for the drilling and cutout, making sure to return to 0 after each step is complete.
 
-**Congratulations** Your board is complete.
+**Congratulations**
+
+Your board is complete.
 
 
