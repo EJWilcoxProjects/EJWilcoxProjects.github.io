@@ -68,13 +68,24 @@ Find the CAMOUTPUTS FOLDER again. This time, go to DRILLFILES and click the DRIL
 
 On the board should appear red circles like below. 
 
-At this point you can flip your board so that the copper side of the board is a mirror to the side you will be putting the components onto.
+Make sure that all holes are aligned with the board correctly. If there is a mistake and the scaling is wrong, a few things can be modified to potentially fix the issue.
+
+One is that Eagle may put a '%' at the beginning of the EXCELLON file. This can be modified by opening the DRILL.xln file with Notepad and removing the first '%' at the start of the text.
+
+Secondly, I managed to fix the error reading the .xln file by opening it first in GERBER VIEWER, then saving it again (overwriting the previous or renaming if you wish). 
+
+After some troubleshooting, the holes should align with the board.
 
 ![drill view](https://i.ibb.co/3hg929D/Drill-View.png)
 
+At this point you can FLIP your board so that the copper side of the board is a mirror to the side you will be putting the components onto. You can find the option to FLIP in the OPTIONS tab.
+
 ![view project](https://i.ibb.co/FhJ4L9g/View-Project.png)
 
+On the left of the project, the .gbr and .xln files should be visible as seen above.
+
 ![view gerber](https://i.ibb.co/kgLsdR5/Gerber-Object-Selected.png)
+
 
 ![isolation geometry](https://i.ibb.co/RC8y0v6/Isolation-Tool-View.png)
 
