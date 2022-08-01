@@ -2,6 +2,9 @@
 
 <h1 align="center">Doublestop Rocker</h1>
 
+
+This project is inspired by [Jeremy Bell's Doublestop Rocker](https://www.youtube.com/watch?v=v0ewoMDygK0) which can be mounted to a guitar or sit on its own. My goal was to find a way to closely replicate Jeremy's original design, but provide several designs capable of working in a similar manner. On top of this, developing it further with the use of 3D printing, creating a new Max patch with the aid of collaboration, and repurposing the Teensy USB_MIDI Buttons sketch.
+
 ![rocker top](https://i.ibb.co/JRQ6S5J/Double-Stop-Rocker-Top-Variation-3-bar-2022-Jul-31-10-32-04-AM-000-Customized-View21107458359-png-al.png)
 
 ![rocker bottom](https://i.ibb.co/12x50jS/Rocker-base-design-dupe-2022-Jul-31-10-33-59-AM-000-Customized-View11890239674-png-alpha.png)
