@@ -72,6 +72,10 @@ The concept board was then assembled inside of its case, making sure all compone
 
 At this point, the board could be constructed and encased.
 
+![My build](https://i.ibb.co/nsqPhFy/DSC-3889.jpg)
+
+Above is the final design, however unfortunately the board does not function, and without the appropriate components, it's difficult to know what variable prevents this design from not working. In any event, if you decide to take on this project yourself, please get in touch with feedback about the design and what changes you made.
+
 
 
 
