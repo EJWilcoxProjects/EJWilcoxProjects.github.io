@@ -5,9 +5,24 @@
 
 This project is inspired by [Jeremy Bell's Doublestop Rocker](https://www.youtube.com/watch?v=v0ewoMDygK0) which can be mounted to a guitar or sit on its own. My goal was to find a way to closely replicate Jeremy's original design, but provide several designs capable of working in a similar manner. On top of this, developing it further with the use of 3D printing, creating a new Max patch with the aid of collaboration, and repurposing the Teensy USB_MIDI Buttons sketch.
 
-![rocker top](https://i.ibb.co/JRQ6S5J/Double-Stop-Rocker-Top-Variation-3-bar-2022-Jul-31-10-32-04-AM-000-Customized-View21107458359-png-al.png)
+*At the end of this page, I will also provide a list to the different designs and the files so that you can print and try them out.*
+
+The way in which my Doublestop rocker functions is similar to Jeremy's in the use of Teensy as the midi controller. Each side of the Doublstop rocker has a conductive pad connecting to two of the digital pins on the Teensy board. In Jeremy's case, it looks like his top rocking piece is one conductive surface connected to ground, and the base is connected to two different pins.
+
+![rocker first](https://i.ibb.co/CzrPGDZ/Double-Stop-Rocker-Top-Variation-3-2022-Jul-31-10-47-06-AM-000-Customized-View6365680705-png-alpha.png)
+
+Above is my first design of the top rocking pad with all established indents for magnets and coins (which will be discussed further in the page).
+This design uses horizontally printed pivots that slot into two 'U' shaped holders on the rocker base shown below. Although seeming fragile, this design holds up very well aswell as still rocking smoothly after constant use. 
+
+
 
 ![rocker bottom](https://i.ibb.co/12x50jS/Rocker-base-design-dupe-2022-Jul-31-10-33-59-AM-000-Customized-View11890239674-png-alpha.png)
+
+![rocker top](https://i.ibb.co/JRQ6S5J/Double-Stop-Rocker-Top-Variation-3-bar-2022-Jul-31-10-32-04-AM-000-Customized-View21107458359-png-al.png)
+
+Above is the first design of my rocker top.
+
+
 
 ![rocker combined](https://i.ibb.co/syrTJrt/Rocker-base-design-dupe-bar-2022-Jul-31-10-31-40-AM-000-Customized-View23189622749-png-alpha.png)
 
@@ -45,4 +60,4 @@ This project is inspired by [Jeremy Bell's Doublestop Rocker](https://www.youtub
 
 
 
-
+Find the list of files [HERE](https://drive.google.com/drive/folders/1H8cQ9-BR39GN7Wlx6rk8J9TUlsvbFm7x?usp=sharing)
