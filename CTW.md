@@ -11,8 +11,11 @@ In addition, this tutorial covers top layer PCB only. In the future, this tutori
 NECESSARY SOFTWARE TO FOLLOW THIS TUTORIAL:
 
 -EAGLE
+
 -FLATCAM
--GERBER VIEWER (Optional)
+
+-GERBER VIEWER 
+
 -WEGSTR
 
 # 1. EAGLE
