@@ -22,7 +22,7 @@ These designs use both elastic bands and coin neodymium magnets as a way to keep
 
 ![rocker top](https://i.ibb.co/JRQ6S5J/Double-Stop-Rocker-Top-Variation-3-bar-2022-Jul-31-10-32-04-AM-000-Customized-View21107458359-png-al.png)
 
-Above you can see a variation of the rocker top design, still with lots of magnet slots, and this one requires it as it isn't held in with elastic bands, instead the magnets keep the rocker repelling at each side. Simply requires using superglue to glue the magnets in with polarities causing base and top to repel against eachother. A simple 2D CAD file can be made to laser cut out an MDF cover for the magnets, however this is redesigned later due to further simplification of design.
+Above you can see a variation of the rocker top design, still with lots of magnet slots. Due to it not being held in with elastic bands, the magnets keep the rocker repelling at each side, thus centered. Simply use superglue to glue the magnets in with polarities causing base and top to repel against eachother. A simple 2D CAD file can be made to laser cut out an MDF cover for the magnets, however this is redesigned later due to further simplification of design.
 
 # Early 4 Way Rocker 3D Designs
 
@@ -46,7 +46,7 @@ The concept of having AND logic in this rocker design will be something I will b
 
 ![rocker combined](https://i.ibb.co/syrTJrt/Rocker-base-design-dupe-bar-2022-Jul-31-10-31-40-AM-000-Customized-View23189622749-png-alpha.png)
 
-As is visible, the middle has been reinforced and rounded. This came from post-testing realisations, a more convex shape provides the fingers an easy surface to roll off.
+As is visible, the middle has been reinforced and rounded. This came from post-testing realisations, a more convex-like shape provides the fingers an easy surface to roll off.
 
 ![round 4 way](https://i.ibb.co/vJdGcMw/Rocker-base-design-dupe-2-2022-Jul-31-10-46-02-AM-000-Customized-View13011772815-png-alpha.png)
 
@@ -104,7 +104,7 @@ In the link below contains the necessary .stl, .ino and max files necessary to b
 Additionally, A material list (with links) and total cost is present in each folder so that you immediately start the project today.
 
 
-Click on the thumbnails tomorrow to see a variety of demonstrations with the Doublestop Rocker design. Note that a few effect plugins in max were used to experiment and can be easily interchanged in the patches.
+Click on the thumbnails below to see a variety of demonstrations with the Doublestop Rocker design. Note that a few effect plugins in Max were used to experiment and can be easily interchanged in the patches.
 
 [![1](https://i9.ytimg.com/vi_webp/78Pokf4yr9I/mqdefault.webp?sqp=CIzRoJcG&rs=AOn4CLDP7PVq1uUa3uWoq7Fae2fZKUj2bw)](https://www.youtube.com/watch?v=78Pokf4yr9I)
 
@@ -115,7 +115,7 @@ Click on the thumbnails tomorrow to see a variety of demonstrations with the Dou
 [![4](https://i9.ytimg.com/vi_webp/I09AXpobvtk/mqdefault.webp?sqp=CMikoJcG&rs=AOn4CLD9A9WSP-e-L827lpF0NHGtNS_T_A)](https://www.youtube.com/watch?v=I09AXpobvtk)
 
 
-One thing that can be noticed in the clips is clicking when the audio cuts out and back in. I suspect this is a gain issue and noticed after recording. This will also be tested further in the future.
+One thing that can be noticed in the clips is clipping when the audio cuts out and back in. I suspect this is a gain issue and noticed after recording. This will also be tested further in the future.
 
 
 
