@@ -8,6 +8,13 @@ This tutorial will provide a step-by-step guide on the CAD to CAM process, in th
 
 In addition, this tutorial covers top layer PCB only. In the future, this tutorial may expand to accommodate for more complex circuits.
 
+NECESSARY SOFTWARE TO FOLLOW THIS TUTORIAL:
+
+-EAGLE
+-FLATCAM
+- (Optional) GERBER VIEWER
+-WEGSTR
+
 # 1. EAGLE
 
 Once your schematic and board has been downloaded or designed, the appropriate files must be taken from your EAGLE board to be used externally to the program.
@@ -20,11 +27,25 @@ Once you have clicked on CAM PROCESSOR, a list of files will appear. The most im
 
 ![Eagle Process](https://i.ibb.co/Fn1K4dC/Process-job.png)
 
+At this point, you can click Process Job, the files will be found within EAGLE under CAMOUTPUTS.
 
+# 2. Opening Files in FlatCAM
+
+EAGLE can now be closed, and FlatCAM can be opened.
+
+FlatCAM is used to create the cnc files which will tell the Wegstr machine which paths and coordinates to follow in the milling stage.
+
+On the top left of the display, click on FILES and OPEN GERBER.
 
 ![open gerber](https://i.ibb.co/hV4rqY3/Open-Gerber.png)
 
+Now find your CAMOUTPUTS folder which contains the ASSEMBLY, DRILLFILES and GERBERFILES FOLDERS.
+
+Click on GERBERFILES and choose COPPER_TOP. This will bring the COPPER_TOP GERBER FILE into the FlatCAM project.
+
 ![select camout](https://i.ibb.co/C0PdTx4/Select-CAM.png)
+
+Above is an example board of what you will see, however your circuit will look different. Make sure to compare the location and look of your board to your EAGLE board to make sure everything seems correct.
 
 ![select gerber](https://i.ibb.co/K7JDfp0/image-2022-08-01-103813222.png)
 
