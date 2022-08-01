@@ -14,7 +14,7 @@ The way in which my Doublestop rocker functions is similar to Jeremy's in the us
 ![rocker first](https://i.ibb.co/CzrPGDZ/Double-Stop-Rocker-Top-Variation-3-2022-Jul-31-10-47-06-AM-000-Customized-View6365680705-png-alpha.png)
 
 Above is my first design of the top rocking pad with all established indents for magnets and coins (which will be discussed further in the page).
-This design uses horizontally printed pivots that slot into two 'U' shaped holders on the rocker base shown below. Although seeming fragile, this design holds up very well aswell as still rocking smoothly after constant use. 
+This design uses horizontally printed pivots that slot into two 'U' shaped holders on the rocker base shown below. Although these small plastic rods seem fragile, this design holds up very well aswell as still rocking smoothly after constant use. 
 
 ![rocker bottom](https://i.ibb.co/12x50jS/Rocker-base-design-dupe-2022-Jul-31-10-33-59-AM-000-Customized-View11890239674-png-alpha.png)
 
@@ -22,7 +22,7 @@ These designs use both elastic bands and coin neodymium magnets as a way to keep
 
 ![rocker top](https://i.ibb.co/JRQ6S5J/Double-Stop-Rocker-Top-Variation-3-bar-2022-Jul-31-10-32-04-AM-000-Customized-View21107458359-png-al.png)
 
-Above you can see a variation of the rocker top design, still with lots of magnet slots, and this one requires it as it isn't held in with elastic bands, instead the magnets keep the rocker repelling at each side. Simply requires using superglue to glue the magnets in with polarities causing base and top to repel against eachother.
+Above you can see a variation of the rocker top design, still with lots of magnet slots, and this one requires it as it isn't held in with elastic bands, instead the magnets keep the rocker repelling at each side. Simply requires using superglue to glue the magnets in with polarities causing base and top to repel against eachother. A simple 2D CAD file can be made to laser cut out an MDF cover for the magnets, however this is redesigned later due to further simplification of design.
 
 # Early 4 Way Rocker 3D Designs
 
@@ -46,9 +46,11 @@ The concept of having AND logic in this rocker design will be something I will b
 
 ![rocker combined](https://i.ibb.co/syrTJrt/Rocker-base-design-dupe-bar-2022-Jul-31-10-31-40-AM-000-Customized-View23189622749-png-alpha.png)
 
-
+As is visible, the middle has been reinforced and rounded. This came from post-testing realisations, a more convex shape provides the fingers an easy surface to roll off.
 
 ![round 4 way](https://i.ibb.co/vJdGcMw/Rocker-base-design-dupe-2-2022-Jul-31-10-46-02-AM-000-Customized-View13011772815-png-alpha.png)
+
+The top piece for the 4 way rocker has a similar modification, however with slots to accommodate to elastic bands.
 
 
 
