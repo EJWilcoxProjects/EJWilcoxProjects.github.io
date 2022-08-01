@@ -6,11 +6,21 @@
 
 This tutorial will provide a step-by-step guide on the CAD to CAM process, in this case using your EAGLE design as a starting point. Please note that the values advised are solely guidelines and each milling machine will work at its own capacity.
 
+In addition, this tutorial covers top layer PCB only. In the future, this tutorial may expand to accommodate for more complex circuits.
+
 # 1. EAGLE
+
+Once your schematic and board has been downloaded or designed, the appropriate files must be taken from your EAGLE board to be used externally to the program.
+
+Your first step in this process is to maneuver over to FILE and CAM PROCESSOR. This will be found at the top left of your display.
 
 ![Eagle](https://i.ibb.co/9v0s00C/Eagle-cam.png)
 
+Once you have clicked on CAM PROCESSOR, a list of files will appear. The most important for this tutorial are the GERBER and DRILL FILES, more specifically the single DRILL FILE and TOP COPPER GERBER.
+
 ![Eagle Process](https://i.ibb.co/Fn1K4dC/Process-job.png)
+
+
 
 ![open gerber](https://i.ibb.co/hV4rqY3/Open-Gerber.png)
 
