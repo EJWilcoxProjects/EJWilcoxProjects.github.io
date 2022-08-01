@@ -13,7 +13,7 @@ Here, you will find a collection of projects, focusing on piezo buffer reiterati
 </p>
 
 <p align="center">
-  <img width="200" src="https://i.ibb.co/f9pxHZ5/ezgif-1-5020f6b119.gif" alt="rocker">
+  <img width="400" src="https://i.ibb.co/f9pxHZ5/ezgif-1-5020f6b119.gif" alt="rocker">
 </p>
 
 
