@@ -78,11 +78,21 @@ Below is the midi and audio control interface for 4 Way Rocker. This design need
 
 # Physical Builds
 
+Below are the current physical Doublestop and 4 Way Rocker builds. This Doublestop uses elastic and magnets along with the MDF cover. 
+
+Within the hollow Rocker base sits the Teensy 4.0, along with two neodymium magnets at each end to repel the top rocking platform.
+
 ![double stop creation](https://i.ibb.co/4Pf6RkM/DSC-3881.jpg)
+
+This 4 Way Rocker design below has removeable polymorph covers to allow more ergonomic toggling of each of the four sides.
 
 ![4 way creation](https://i.ibb.co/N7byqQV/DSC-3883.jpg)
 
 
+# Build Instructions and List of Parts
+
+In the link below contains the necessary .stl, .ino
+[Click Here](https://drive.google.com/drive/folders/1H8cQ9-BR39GN7Wlx6rk8J9TUlsvbFm7x?usp=sharing)
 
 
 
@@ -94,5 +104,5 @@ Below is the midi and audio control interface for 4 Way Rocker. This design need
 
 
 
-<h1 align="center">Find the list of files below</h1>
-<h1 align="center">(https://drive.google.com/drive/folders/1H8cQ9-BR39GN7Wlx6rk8J9TUlsvbFm7x?usp=sharing)</h1>
+
+
