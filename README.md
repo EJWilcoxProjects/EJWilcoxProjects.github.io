@@ -13,7 +13,7 @@ Here, you will find a collection of projects, focusing on piezo buffer reiterati
 Project List
 
 1. [Piezo Buffer Board](http://EJWilcoxProjects.github.io/PBB.html)
-2. [Step-by-step PCB CAM To Wegstr Print Tutorial](http://EJWilcoxProjects.github.io/CTW.html)
+2. [Step-by-step EAGLE To Wegstr Tutorial](http://EJWilcoxProjects.github.io/CTW.html)
 3. [Exciter Attachment Comparison](http://EJWilcoxProjects.github.io/EEA.html)
 4. [Doublestop Rocker Designs](http://EJWilcoxProjects.github.io/DSR.html)
 
