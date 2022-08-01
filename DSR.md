@@ -14,13 +14,13 @@ The way in which my Doublestop rocker functions is similar to Jeremy's in the us
 Above is my first design of the top rocking pad with all established indents for magnets and coins (which will be discussed further in the page).
 This design uses horizontally printed pivots that slot into two 'U' shaped holders on the rocker base shown below. Although seeming fragile, this design holds up very well aswell as still rocking smoothly after constant use. 
 
-
-
 ![rocker bottom](https://i.ibb.co/12x50jS/Rocker-base-design-dupe-2022-Jul-31-10-33-59-AM-000-Customized-View11890239674-png-alpha.png)
+
+These designs use both elastic bands and coin neodymium magnets as a way to keep them balanced and springing back to a neutral floating position. The elastic bands can actually provide the same effect by themselves, and better as a budget build.
 
 ![rocker top](https://i.ibb.co/JRQ6S5J/Double-Stop-Rocker-Top-Variation-3-bar-2022-Jul-31-10-32-04-AM-000-Customized-View21107458359-png-al.png)
 
-Above is the first design of my rocker top.
+Above you can see a variation of the rocker top design, still with lots of magnet slots, and this one requires it as it isn't held in with elastic bands, instead the magnets keep the rocker repelling at each side. Simply requires using superglue to glue the magnets in with polarities causing base and top to repel against eachother.
 
 
 
