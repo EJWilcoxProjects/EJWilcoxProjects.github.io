@@ -13,3 +13,4 @@ Across these projects, there are a few people I would like to thank for inspirat
 
 [TheStuffMade](https://www.youtube.com/watch?v=9xczeQMj2dg) a very helpful video in the PCB making process.
 
+[ScottHelmke](http://scotthelmke.com/Mint-box-buffer.html) for his piezo buffer board schematic and design. Hopefully this board will be a successful project of mine in the near future.
