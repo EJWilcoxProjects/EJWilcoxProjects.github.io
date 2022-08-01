@@ -50,17 +50,33 @@ As is visible, the middle has been reinforced and rounded. This came from post-t
 
 ![round 4 way](https://i.ibb.co/vJdGcMw/Rocker-base-design-dupe-2-2022-Jul-31-10-46-02-AM-000-Customized-View13011772815-png-alpha.png)
 
-The top piece for the 4 way rocker has a similar modification, however with slots to accommodate to elastic bands.
+The top piece for the 4 way rocker has a similar modification, however with slots to accommodate to elastic bands. This two way, two tier elastic band setup allows the joiner and top piece to stay in place, whilst also restricting its motion to bend, ultimately wanting to settle centrally.
 
+# Doublestop Rocker Max Patch Variations
 
+The first max patch is a demonstration of the midi input being read with 'high' and 'low' seen as '99' and '0' respectively. This is the same across all of the max patches. The other numbers, correspond to the midi note that the .ino file has assigned to the digital pins of the Teensy. These notes can be changed to midi '0', '1', or '2' and so on. This patch was made with the help of my [module supervisor](https://miguel-ortiz.com), which I would then go on to adapt.
 
 ![max original](https://i.ibb.co/Xj3N65F/image-2022-08-01-132905863.png)
 
-![max original 4](https://i.ibb.co/6n2dPTq/2nd-Patch.png)
+This example has two sound files activated by the toggle buttons in the patch, with a central continuous looping sound file. 
+
+Once my tests with the rocker provided the expected outcome from this patch, I could then adapt it for live audio in, just like in Jeremy's demonstration.
 
 ![max live audio](https://i.ibb.co/Yy6F9Nd/3rd-Patch.png)
 
+Above is the max patch I adapted from the previous, now using gates and experimenting with different effect plugins. These gates toggle the signal going to the output, and provides the same chopped up sound achieved in Jeremy's video.
+
+# Doublestop Rocker Max Patch Variations
+
+Very similar to the first patch, this four way patch provides a duplication of the top half of the patch and works in a similar manner but with two more midi notes. The midi notes assigned this time were 0, 1, 2 ,3 solely because these are much simpler to keep track of. Originally it was to not interfere with any other midi inputs, but this changed when I began to assign individual midi inputs to different sections of the patch.
+
+![max original 4](https://i.ibb.co/6n2dPTq/2nd-Patch.png)
+
+Below is the midi and audio control interface for 4 Way Rocker. This design needs more refinement but functions well. Midi ins have been assigned so that the midi keyboard controlling the two synthesisers I connected to the laptop don't interfere with the Teensy Midi USB connection. 
+
 ![max midi control 4](https://i.ibb.co/bBMXckN/4th-Patch.png)
+
+# Physical Builds
 
 ![double stop creation](https://i.ibb.co/4Pf6RkM/DSC-3881.jpg)
 
