@@ -16,4 +16,5 @@ Project List
 2. [Step-by-step EAGLE To Wegstr Tutorial](http://EJWilcoxProjects.github.io/CTW.html)
 3. [Exciter Attachment Comparison](http://EJWilcoxProjects.github.io/EEA.html)
 4. [Doublestop Rocker Designs](http://EJWilcoxProjects.github.io/DSR.html)
+5. [Acknowledgements](http://EJWilcoxProjects.github.io/Thanks.html)
 
