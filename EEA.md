@@ -12,13 +12,13 @@ ALL AUDIO FILES CAN BE FOUND AT THE LINK AT THE BOTTOM OF THE PAGE
 
 # Standard Attachment Method
 
-[Adhesive](https://i.ibb.co/5vVkpZz/Adhesive-White.png)
+![Adhesive](https://i.ibb.co/5vVkpZz/Adhesive-White.png)
 
 # Hot Glue Attachment Method
-[Hot Glue](https://i.ibb.co/FqXp56H/Hot-Glue-White.png)
+![Hot Glue](https://i.ibb.co/FqXp56H/Hot-Glue-White.png)
 
 # Superglue Masking Tape Attachment Method
-[Superglue](https://i.ibb.co/bmrPsGd/Masking-Tape-Super-Glue-White.png)
+![Superglue](https://i.ibb.co/bmrPsGd/Masking-Tape-Super-Glue-White.png)
 
 This short test shows that hot glue significantly makes the sound muddier than the other attachment methods. The perforated board seems better at staying true to the original adhesive method of surface excitation.
 
