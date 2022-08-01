@@ -7,7 +7,7 @@ This project is inspired by [Jeremy Bell's Doublestop Rocker](https://www.youtub
 
 *At the end of this page, I will also provide a list to the different designs and the files so that you can print and try them out.*
 
-The way in which my Doublestop rocker functions is similar to Jeremy's in the use of Teensy as the midi controller. Each side of the Doublstop rocker has a conductive pad connecting to two of the digital pins on the Teensy board. In Jeremy's case, it looks like his top rocking piece is one conductive surface connected to ground, and the base is connected to two different pins.
+The way in which my Doublestop rocker functions is similar to Jeremy's is the use of Teensy as the midi controller. Each side of the Doublstop rocker has a conductive pad connecting to two of the digital pins on the Teensy board. In Jeremy's case, it looks like his top rocking piece is one conductive surface connected to ground, and the base is connected to two different pins.
 
 # Early Doublestop 3D Designs
 
@@ -87,6 +87,12 @@ Within the hollow Rocker base sits the Teensy 4.0, along with two neodymium magn
 This 4 Way Rocker design below has removeable polymorph covers to allow more ergonomic toggling of each of the four sides.
 
 ![4 way creation](https://i.ibb.co/N7byqQV/DSC-3883.jpg)
+
+For the contacts on this build, I settled with using British 1p coins. The reason for this was how abundant they are and how well they function as contacts. Simply, the .stl have rount indents that fit the coins in perfectly. 
+
+As a stronger way to secure them, when soldering wires onto the coins, the coin must get to a very high temperature for the solder to adhere properly. Once the solder has attached the wire to the coin, sit the coin into the indent and it will slightly melt the PLA filament, letting it bond better to the base and rocker. Secure even more with superglue if necessary.
+
+*Old 1p coins work best for the magnetic designs, as they are non-ferrous and will not interfere with the rocker. I managed to find them quite easily around my home. This is where the elastic designs excell as there is no need to look for specific pennies.*
 
 
 # Build Instructions and List of Parts
