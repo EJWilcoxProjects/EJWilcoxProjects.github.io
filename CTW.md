@@ -2,6 +2,7 @@
 
 <h1 align="center">From EAGLE to Wegstr</h1>
 
+https://i.ibb.co/wJNFny6/eagle-wegster.png
 
 
 This tutorial will provide a step-by-step guide on the CAD to CAM process, in this case using your EAGLE design as a starting point. Please note that the values advised are solely guidelines and each milling machine will work at its own capacity.
