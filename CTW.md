@@ -84,10 +84,19 @@ At this point you can FLIP your board so that the copper side of the board is a 
 
 On the left of the project, the .gbr and .xln files should be visible as seen above.
 
+Click on the .gbr file and move to the SELECTED panel next to PROJECT
+
 ![view gerber](https://i.ibb.co/kgLsdR5/Gerber-Object-Selected.png)
 
+Once a panel with GERBER OBJECT at the top is visible, click on ISOLATION ROUTING in the TOOLS submenu.
 
 ![isolation geometry](https://i.ibb.co/RC8y0v6/Isolation-Tool-View.png)
+
+The TOOl PANEL will change to say ISOLATION TOOL. 
+
+This is the point where parameters can be changed to suit your board manufacture and milling machine specifics.
+
+**KEEP IN MIND THAT THE PARAMETERS VISIBLE IN THE SCREENSHOTS SHOULD NOT NECESSARILY BE REPLICATED**
 
 ![isolation to cnc](https://i.ibb.co/C7hHVBM/Generate-CNC-Job-Object-Isolation-Geometry.png)
 
