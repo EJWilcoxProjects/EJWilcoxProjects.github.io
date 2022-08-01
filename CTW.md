@@ -206,6 +206,6 @@ When you open the first cnc file, you will see the design and path appear again.
 
 Repeat for the drilling and cutout, making sure to return to 0 after each step is complete.
 
-**Congratulations* Your board is complete.
+**Congratulations** Your board is complete.
 
 
