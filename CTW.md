@@ -22,3 +22,10 @@ This tutorial will provide a step-by-step guide on the CAD to CAM process, in th
 
 ![view board](https://i.ibb.co/LxQHrRS/Gerber-View.png)
 
+![open excellon](https://i.ibb.co/hZBVL7M/image-2022-08-01-104349251.png)
+
+![select drill](https://i.ibb.co/C2xxDtF/image-2022-08-01-104505468.png)
+
+![drill view](https://i.ibb.co/3hg929D/Drill-View.png)
+
+![view project](https://i.ibb.co/FhJ4L9g/View-Project.png)
