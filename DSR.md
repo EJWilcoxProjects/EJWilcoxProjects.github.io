@@ -98,13 +98,13 @@ In the link below contains the necessary .stl, .ino and max files necessary to b
 Additionally, A material list (with links) and total cost is present in each folder so that you immediately start the project today.
 
 
-
+Click on the thumbnails tomorrow to see a variety of demonstrations with the Doublestop Rocker design. Note that a few effect plugins in max were used to experiment and can be easily interchanged in the patches.
 
 [![1](https://i9.ytimg.com/vi_webp/78Pokf4yr9I/mqdefault.webp?sqp=CIzRoJcG&rs=AOn4CLDP7PVq1uUa3uWoq7Fae2fZKUj2bw)](https://www.youtube.com/watch?v=78Pokf4yr9I)
 
 [![2](https://i9.ytimg.com/vi_webp/LQ6mOLPP-Vo/mqdefault.webp?sqp=CMikoJcG&rs=AOn4CLAVW_19UKoIShmoFqKMkk4njE5NyQ)](https://www.youtube.com/watch?v=LQ6mOLPP-Vo)
 
-[1[3](https://i9.ytimg.com/vi_webp/4d19Q5KZ1hc/mqdefault.webp?sqp=CLjToJcG&rs=AOn4CLCZnfxm9O7gykqA6g4wHpV7FHco4Q)](https://www.youtube.com/watch?v=4d19Q5KZ1hc)
+[![3](https://i9.ytimg.com/vi_webp/4d19Q5KZ1hc/mqdefault.webp?sqp=CLjToJcG&rs=AOn4CLCZnfxm9O7gykqA6g4wHpV7FHco4Q)](https://www.youtube.com/watch?v=4d19Q5KZ1hc)
 
 [![4](https://i9.ytimg.com/vi_webp/I09AXpobvtk/mqdefault.webp?sqp=CMikoJcG&rs=AOn4CLD9A9WSP-e-L827lpF0NHGtNS_T_A)](https://www.youtube.com/watch?v=I09AXpobvtk)
 
