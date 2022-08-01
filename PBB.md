@@ -51,9 +51,27 @@ A few substitutions were made for components, this led testing to become unsure,
 
 Above is a list of the original components, a few of these were substituted.
 
-The twp polyester capacitors were replaced with one aluminion electrolytic and one ceramic of same values. This is possibly the most to blame for the final design not functioning, but that requires further tests and the appropriate components to begin with.
+The twp polyester capacitors were replaced with one aluminium electrolytic and one ceramic of same values. This is possibly the most to blame for the final design not functioning, but that requires further tests and the appropriate components to begin with.
+
 In Scott's description, he clarifies that the 20pF ceramic capacitor is replaced with a 1pF capacitor. For this project, I ended up using a 22pF ceramic which should still work.
+
 The stereo jack connections used by Scott are replaced with MJ-63022A Mono Female connectors.
+
+![My sch](https://i.ibb.co/g9B03QX/Piezo-Buffer-Sch.png)
+
+This schematic is produced in EAGLE with close approximation to Scott's original design.
+
+![My brd](https://i.ibb.co/MZrHC4L/Piezo-Buffer-Brd.png)
+
+The board itself is approximately half of the first design, compressing the tracks and providing a more compact final board.
+One issue with this design was that due to the boards smaller design and track width (Which will be discussed more in EAGLE to Wegstr), Wegstr milling machine doesn't have much room for error. 
+
+![My concept](https://i.ibb.co/n3bxJ18/piezo-holder-2022-Jul-31-10-29-57-AM-000-Customized-View26086548375-png-alpha.png) 
+
+The concept board was then assembled inside of its case, making sure all components had enough space and that the female connectors did not interfere with the designed enclosure.
+
+At this point, the board could be constructed and encased.
+
 
 
 
