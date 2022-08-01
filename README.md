@@ -8,7 +8,9 @@
 
 
 
+<p align="center">
 Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, Doublestop rocker designs, and more.
+</p>
 
 <p align="center">
   <img width="200" src="https://i.ibb.co/f9pxHZ5/ezgif-1-5020f6b119.gif" alt="rocker">
