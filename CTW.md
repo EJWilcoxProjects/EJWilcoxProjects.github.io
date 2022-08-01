@@ -44,6 +44,16 @@ This tutorial will provide a step-by-step guide on the CAD to CAM process, in th
 
 ![drill path](https://i.ibb.co/h7H2Yyz/image-2022-08-01-110041317.png)
 
-![
+![cutout choose](https://i.ibb.co/hfthMfd/image-2022-08-01-110249398.png)
+
+![cutout tool](https://i.ibb.co/MSJGDD8/cutout-generate-cnc.png)
+
+![view complete](https://i.ibb.co/pX4b0kV/Board-complete.png)
+
+![3 cnc](https://i.ibb.co/NSrT4xg/cnc-list.png)
+
+![open wegstr](https://i.ibb.co/MDdSBVr/List-in-wegstr.png)
+
+![wegstr path](https://i.ibb.co/svS7rZb/wegstr-top.png)
 
 
