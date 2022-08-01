@@ -41,21 +41,34 @@ On the top left of the display, click on FILES and OPEN GERBER.
 
 Now find your CAMOUTPUTS folder which contains the ASSEMBLY, DRILLFILES and GERBERFILES FOLDERS.
 
-Click on GERBERFILES and choose COPPER_TOP. This will bring the COPPER_TOP GERBER FILE into the FlatCAM project.
 
 ![select camout](https://i.ibb.co/C0PdTx4/Select-CAM.png)
 
-Above is an example board of what you will see, however your circuit will look different. Make sure to compare the location and look of your board to your EAGLE board to make sure everything seems correct.
+Select the GERBERFILES folder.
 
 ![select gerber](https://i.ibb.co/K7JDfp0/image-2022-08-01-103813222.png)
 
+Click on COPPER_TOP. This will bring the COPPER_TOP GERBER FILE into the FlatCAM project.
+
 ![select pcb layer](https://i.ibb.co/BtJ5FPT/image-2022-08-01-103935528.png)
+
+Below is an example board of what you will see, however your circuit will look different. Make sure to compare the location and look of your board to your EAGLE board to make sure everything seems correct.
 
 ![view board](https://i.ibb.co/LxQHrRS/Gerber-View.png)
 
+Now that the GERBER FILE has been brought in successfully, the same steps will be repeated except this time for the DRILL FILES. 
+
+Click on OPEN EXCELLON
+
 ![open excellon](https://i.ibb.co/hZBVL7M/image-2022-08-01-104349251.png)
 
+Find the CAMOUTPUTS FOLDER again. This time, go to DRILLFILES and click the DRILL FILE present within the folder.
+
 ![select drill](https://i.ibb.co/C2xxDtF/image-2022-08-01-104505468.png)
+
+On the board should appear red circles like below. 
+
+At this point you can flip your board so that the copper side of the board is a mirror to the side you will be putting the components onto.
 
 ![drill view](https://i.ibb.co/3hg929D/Drill-View.png)
 
