@@ -9,7 +9,7 @@
 
 
 <p align="center">
-Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, Doublestop rocker designs, and more.
+Welcome to my own developed website for my Independent Study Portfolio. Here, you will find a collection of projects, focusing on piezo buffer reiteration designs, in depth Eagle/Flatcam/Wegster tutorials, Doublestop rocker designs, and more.
 </p>
 
 <p align="center">
